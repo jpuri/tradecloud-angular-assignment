@@ -1,4 +1,5 @@
-# Sample Assignment
+# tradecloud-angular-assignment
+TradeCloud's Angular Assignment
 
 The projects uses following tech stack:
 1. AngularJS
